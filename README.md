@@ -88,3 +88,9 @@ npx wrangler tail
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Documentation](https://reactjs.org/)
 - [Hono Documentation](https://hono.dev/)
+
+---
+
+## ًں¤‌ Contributing & Pull Request Guidelines
+
+Contributions, bug reports, and documentation improvements are welcome! Please open an issue or submit a Pull Request against the `main` branch.
